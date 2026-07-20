@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Fiyinfoluwa 👋
 
-<!--
-**fiyintech/fiyintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student software engineer passionate about building intelligent systems, digital products, and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 MAI AI
+A personal AI assistant system focused on intelligent automation, memory, reasoning, and tool-based interactions.
+
+### 🌐 Sign Out Platform
+A digital graduation sign-out platform that allows students to create and share digital signatures.
+
+## 🛠️ Technologies & Interests
+
+- Python
+- Artificial Intelligence
+- Software Engineering
+- Linux
+- Cybersecurity
+- Web Development
+
+## 🎯 Current Goals
+
+- Build advanced AI systems
+- Improve my software engineering skills
+- Create technology that helps people
+
+## 📫 Connect
+
+GitHub: [https://github.com/fiyintech]
