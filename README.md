@@ -1,4 +1,6 @@
-I'm a student software engineer from Nigeria focused on Artificial Intelligence, cybersecurity, and building practical software solutions.
+I'm a Computer Science student from Nigeria focused on Artificial Intelligence, cybersecurity, and building practical software solutions.
+
+I enjoy designing intelligent systems, automation tools, and digital products that solve real-world problems.
 
 I enjoy designing intelligent systems, automation tools, and digital products that solve real-world problems.
 
