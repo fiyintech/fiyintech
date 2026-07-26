@@ -21,3 +21,23 @@ A digital graduation sign-out platform that allows students to create and share 
 - Cybersecurity
 - System Design
 - Linux Development
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- HTML/CSS
+
+### Areas of Interest
+- Artificial Intelligence
+- Cybersecurity
+- Software Engineering
+- Linux Systems
+- Automation
+
+### Tools
+- Git & GitHub
+- Linux
+- VS Code
+- AI Development Tools
