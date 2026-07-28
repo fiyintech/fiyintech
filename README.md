@@ -1,45 +1,139 @@
-I'm a Computer Science student from Nigeria focused on Artificial Intelligence, cybersecurity, and building practical software solutions.
+# Hi, I'm Fiyinfoluwa Akinyemi 👋
 
-I enjoy designing intelligent systems, automation tools, and digital products that solve real-world problems.
+## AI Developer | Computer Science Student | Future Cybersecurity Specialist
 
-I enjoy designing intelligent systems, automation tools, and digital products that solve real-world problems.
+I build intelligent systems, automation tools, and software solutions that solve real-world problems.
+
+Currently focused on **Artificial Intelligence, Software Development, Linux, and Cybersecurity**, I enjoy creating projects that combine creativity, engineering, and practical impact.
+
+---
 
 ## 🚀 Featured Projects
 
-### 🤖 MAI AI
-A personal AI assistant system focused on intelligent automation, memory, reasoning, and tool-based interactions.
+### 🤖 MAI — Personal AI Assistant
 
-**Status:** 🚧 Currently in development
+A modular AI assistant designed to combine conversational intelligence, automation, Linux tools, cybersecurity utilities, and personal productivity features.
 
-### 🌐 Sign Out Platform
-A digital graduation sign-out platform that allows students to create and share digital signatures.
+**Technologies:**
 
-**Status:** 🚧 Currently in development
+* Python
+* Large Language Models (LLMs)
+* Ollama
+* Linux
+* AI Agents
+* Automation
 
-## 📚 Currently Learning
+Repository:
+(Add your MAI repository link here)
 
-- Artificial Intelligence
-- Software Engineering
-- Cybersecurity
-- System Design
-- Linux Development
+---
 
-## 🛠️ Tech Stack
+### 🎓 Sign Out — Digital Graduation Platform
 
-### Languages
-- Python
-- JavaScript
-- HTML/CSS
+A digital platform that allows graduating students to create and share personalized graduation experiences, memories, and sign-out boards.
 
-### Areas of Interest
-- Artificial Intelligence
-- Cybersecurity
-- Software Engineering
-- Linux Systems
-- Automation
+**Technologies:**
 
-### Tools
-- Git & GitHub
-- Linux
-- VS Code
-- AI Development Tools
+* HTML
+* CSS
+* JavaScript
+* Web Development
+
+Repository:
+(Add your Sign Out repository link here)
+
+---
+
+### 📝 BLIC CBT Examination System
+
+A computer-based testing platform designed for schools with student management, teacher tools, question handling, and result tracking.
+
+**Technologies:**
+
+* React
+* Supabase
+* Database Design
+* Authentication
+
+Repository:
+(Add your BLIC repository link here)
+
+---
+
+### 🌐 ORA Social Platform
+
+A next-generation social media concept focused on community, entertainment discovery, and a gamified reputation system using Aura points.
+
+**Technologies:**
+
+* Mobile Development
+* Backend Architecture
+* UI/UX Design
+
+Repository:
+(Add your ORA repository link here)
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming
+
+* Python
+* JavaScript
+* HTML/CSS
+* SQL
+
+### AI & Machine Learning
+
+* AI Agents
+* Large Language Models
+* Automation Systems
+* Conversational AI
+
+### Development
+
+* Git & GitHub
+* Linux
+* React
+* Supabase
+* Database Design
+
+### Cybersecurity Interests
+
+* Linux Security
+* Ethical Hacking
+* Secure Software Development
+* Security Automation
+
+---
+
+## 📊 My Development Journey
+
+I believe in learning by building.
+
+Every project I create is focused on improving my engineering skills, exploring new technologies, and developing solutions that can help people.
+
+My long-term goal is to build advanced AI systems while specializing in cybersecurity.
+
+---
+
+## 🌍 Connect With Me
+
+Portfolio:
+https://fiyinfoluwa-portfolio.netlify.app
+
+GitHub:
+https://github.com/fiyintech
+
+---
+
+## ⚡ Currently Building
+
+* MAI — Personal AI Assistant
+* AI-powered automation tools
+* Software projects focused on real-world problems
+
+---
+
+⭐ Thanks for visiting my profile!
