@@ -1,6 +1,6 @@
 # Hi, I'm Fiyinfoluwa Akinyemi 👋
 
-## AI Developer | Computer Science Student | Future Cybersecurity Specialist
+## Computer Science Student | Software Developer | Building Practical Systems & Exploring Cybersecurity
 
 I build intelligent systems, automation tools, and software solutions that solve real-world problems.
 
