@@ -81,7 +81,7 @@ The project focuses heavily on a futuristic user experience while exploring conc
 
 **Live:** https://or-abit-chat.vercel.app/
 
-**Respository: **https://github.com/fiyintech/ORAbit-chat
+**Respository: ** https://github.com/fiyintech/ORAbit-chat
 
 ---
 
